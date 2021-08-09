@@ -15,3 +15,6 @@ Online Utility Tools
 
 [My Swagger Hubb - https://app.swaggerhub.com/home](https://app.swaggerhub.com/home)
 
+[Key Store Explorer Tool - https://keystore-explorer.org/downloads.html](https://keystore-explorer.org/downloads.html)
+
+[ASCII to HEX, ... - https://www.asciitohex.com/](https://www.asciitohex.com/)
