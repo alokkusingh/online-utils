@@ -17,6 +17,8 @@ Online Utility Tools
 [Google Public DNS Resolver - https://dns.google.com)](https://dns.google.com)
 
 [Measure Your Web - https://web.dev/measure/](https://web.dev/measure/)
+[Who is My ISP - https://www.whoismyisp.org/](https://www.whoismyisp.org/)
+[nslookup](https://www.nslookup.io/dns-records/iot.aloksingh.info)
 
 # Data Encode/Decode
 
