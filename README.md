@@ -28,6 +28,8 @@ Online Utility Tools
 
 [ASCII to HEX, ... - https://www.asciitohex.com/](https://www.asciitohex.com/)
 
+[Base64 Guru](https://base64.guru)
+
 # Other
 
 [My Swagger Hubb - https://app.swaggerhub.com/home](https://app.swaggerhub.com/home)
