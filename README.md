@@ -30,6 +30,8 @@ Online Utility Tools
 
 [Base64 Guru](https://base64.guru)
 
+[CyberChef](https://gchq.github.io/CyberChef)
+
 # Other
 
 [My Swagger Hubb - https://app.swaggerhub.com/home](https://app.swaggerhub.com/home)
