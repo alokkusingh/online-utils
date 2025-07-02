@@ -10,6 +10,8 @@ Online Utility Tools
 
 [SSL Tools - https://decoder.link/trace](https://decoder.link/trace)
 
+[CyberChef](https://gchq.github.io/CyberChef)
+
 ## Network
 
 [Get the IPv6 and IPv4 IPs - http://www.ipv6now.com.au/pingme.php](http://www.ipv6now.com.au/pingme.php)
